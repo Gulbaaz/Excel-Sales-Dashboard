@@ -46,9 +46,12 @@ The aim of this project is to demonstrate Excel-based data analysis and dashboar
 
 ## 🖼️ Dashboard Preview
 
+## 🖼️ Dashboard Preview
+
 | Dashboard | Raw Data |
 |----------|----------|
-| !Images/Dashboard.png | !Images/Raw Data.png |
+| ![Dashboard Screenshot](Images/Dashboard.png) | ![Raw Data Screenshot](Images/Raw Data.png) |
+
 
 ---
 
