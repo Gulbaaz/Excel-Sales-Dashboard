@@ -6,6 +6,20 @@ This is a fully functional Sales Dashboard built using Microsoft Excel. It cover
 
 ## 📁 Project Structure
 
+excel-sales-dashboard/
+│
+├── data/
+│   └── Raw Data.xlsm
+│
+├── dashboard/
+│   └── Complete Dashboard.xlsx
+│
+├── screenshots/
+│   ├── Dashboard.png
+│   └── Raw Data.png
+│
+└── README.md
+
 
 ---
 
