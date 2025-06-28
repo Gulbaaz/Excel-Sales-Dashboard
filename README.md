@@ -20,8 +20,11 @@ excel-sales-dashboard/
 │
 └── 📄 [README.md](./README.md)
 
+### 📁 Folder Descriptions
 
-
+- **📁 Dashboard** – Contains the final interactive Excel Dashboard (`Complete Dashboard.xlsm`)
+- **📁 Data** – Contains the raw sales data used to build the dashboard (`Raw Data.xlsm`)
+- **📁 Images** – Contains project screenshots used in README for visual reference
 
 ---
 
