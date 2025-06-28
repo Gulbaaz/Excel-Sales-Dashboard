@@ -34,7 +34,7 @@ The aim of this project is to demonstrate Excel-based data analysis and dashboar
 
 | Dashboard | Raw Data |
 |----------|----------|
-| ![Dashboard Screenshot](screenshots/dashboard.png) | ![Raw Data Screenshot](screenshots/raw-data.png) |
+| !Images/Dashboard.png | !Images/Raw Data.png |
 
 ---
 
