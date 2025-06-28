@@ -8,15 +8,15 @@ This is a fully functional Sales Dashboard built using Microsoft Excel. It cover
 
 excel-sales-dashboard/
 │
-├── 📂 [data/](./data/)
+├── 📂 [data/](./01_Data/)
 │   └── 📄 [Raw Data.xlsm](./data/Raw%20Data.xlsm)
 │
-├── 📂 [dashboard/](./dashboard/)
+├── 📂 [dashboard/](./03_Dashboard/)
 │   └── 📄 [Complete Dashboard.xlsx](./dashboard/Complete%20Dashboard.xlsx)
 │
-├── 📂 [screenshots/](./screenshots/)
-│   ├── 🖼️ [Dashboard.png](./screenshots/Dashboard.png)
-│   └── 🖼️ [Raw Data.png](./screenshots/Raw%20Data.png)
+├── 📂 [screenshots/](./02_Images/)
+│   ├── 🖼️ [Dashboard.png](./02_Images/Dashboard.png)
+│   └── 🖼️ [Raw Data.png](./02_Images/Raw%20Data.png)
 │
 └── 📄 [README.md](./README.md)
 
@@ -53,7 +53,7 @@ The aim of this project is to demonstrate Excel-based data analysis and dashboar
 
 ### 📊 Dashboard
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](02_Images/Dashboard.png)
 
 ---
 
