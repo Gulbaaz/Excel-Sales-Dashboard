@@ -8,17 +8,19 @@ This is a fully functional Sales Dashboard built using Microsoft Excel. It cover
 
 excel-sales-dashboard/
 │
-├── data/
-│   └── Raw Data.xlsm
+├── 📂 [data/](./data/)
+│   └── 📄 [Raw Data.xlsm](./data/Raw%20Data.xlsm)
 │
-├── dashboard/
-│   └── Complete Dashboard.xlsx
+├── 📂 [dashboard/](./dashboard/)
+│   └── 📄 [Complete Dashboard.xlsx](./dashboard/Complete%20Dashboard.xlsx)
 │
-├── screenshots/
-│   ├── Dashboard.png
-│   └── Raw Data.png
+├── 📂 [screenshots/](./screenshots/)
+│   ├── 🖼️ [Dashboard.png](./screenshots/Dashboard.png)
+│   └── 🖼️ [Raw Data.png](./screenshots/Raw%20Data.png)
 │
-└── README.md
+└── 📄 [README.md](./README.md)
+
+
 
 
 ---
@@ -46,22 +48,35 @@ The aim of this project is to demonstrate Excel-based data analysis and dashboar
 
 ## 🖼️ Dashboard Preview
 
-## 🖼️ Dashboard Preview
+### 📊 Dashboard
 
-| Dashboard | Raw Data |
-|----------|----------|
-| ![Dashboard Screenshot](Images/Dashboard.png) | ![Raw Data Screenshot](Images/Raw Data.png) |
+![Dashboard](Images/Dashboard.png)
+
+---
+
+### 🧾 Raw Data
+
+![Raw Data](Images/Raw%20Data.png)
 
 
 ---
 
 ## 🚀 How to Use
 
-1. Navigate to the `dashboard/` folder
-2. Download the Excel file
-3. Enable Editing & Macros when prompted
-4. Use slicers to explore different views of the data
-5. Click reset buttons (if included) to reset filters
+1. Scroll up and navigate to the [`Dashboard/`](./Dashboard) folder in this repository.
+2. Download the Excel file (`Complete Dashboard.xlsm`) from there.
+3. Open the file in **Microsoft Excel** (preferably 2016 or later).
+4. If prompted:
+   - Click **"Enable Editing"**
+   - Click **"Enable Content / Enable Macros"**
+5. Use the slicer buttons to filter by cities like Delhi, Mumbai, etc.
+6. Explore dynamic visuals like:
+   - Total Sales by Executive
+   - Target Hit %
+   - Pie Chart & Line Chart comparison
+7. Click on reset buttons (if present) to clear filters.
+
+> 💡 Tip: Macros/VBA must be enabled for full functionality.
 
 ---
 
@@ -76,7 +91,7 @@ The aim of this project is to demonstrate Excel-based data analysis and dashboar
 
 ## ✍️ Author
 
-**Shadab**  
+**Gulbaaz**  
 Aspiring Data Analyst | Passionate about storytelling through data
 
 ---
